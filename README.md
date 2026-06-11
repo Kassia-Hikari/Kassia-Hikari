@@ -4,7 +4,7 @@ Sou estudante de tecnologia (5º semestre em ADS), e desenvolvedora. Sou apaixon
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Estou desenvolvendo o **Pathos**, um clube do livro digital, como meu projeto de TCC.
+- 🎓 Estou desenvolvendo o **Pathos**, um clube do livro digital, como meu produto tecnológico.
 - 💻 Tenho experiência na criação de projetos variados, desde gestão de estoque até plataformas focadas exclusivamente em desktop.
 - 🌱 Meu foco principal no desenvolvimento mobile e desktop é utilizando **Flutter** e **Dart**, mas me arrisco em outras linguagens.
 - ⚡ Curiosidade: Quando não estou codando, provavelmente estou lendo um bom livro de ficção científica ou mistério, ou cuidando da minha hortinha como uma pseudo moradora da vila pelicana!
