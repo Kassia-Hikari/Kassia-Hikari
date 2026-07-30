@@ -1,6 +1,6 @@
 # Olá, Parças! Me chamo Kassia Hikari 😄
 
-Sou estudante de tecnologia (5º semestre em ADS), e desenvolvedora. Sou apaixonada pela minha cachorrinha (Kira <3) e por criar interfaces incríveis, dividindo meu tempo entre o mundo do código, meus projetos acadêmicos e a rotina do dia a dia.
+Sou estudante de tecnologia (6º semestre em ADS), e desenvolvedora. Sou apaixonada pela minha cachorrinha (Kira <3) e por criar interfaces incríveis, dividindo meu tempo entre o mundo do código, meus projetos acadêmicos e a rotina do dia a dia.
 
 ### 👩‍💻 Sobre mim
 
